@@ -9,3 +9,4 @@ Per llistar totes les aplicacions i llibreries que estan instal·lades amb el ge
 ## LightDM
 
 Aplicació per modificar la pantalla d'inici de Debian. Tutorial: [Link](https://usuariodebian.blogspot.com/2018/05/lightdm-gestor-de-sesiones.html)
+Les imatges s'han de guardar a la carpeta `usr/share/background`.
