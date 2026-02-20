@@ -38,4 +38,6 @@
         /etc/gdm3/custom.conf
     - Descomentar la línia següent:
         #WaylandEnable=false
+    - IMPORTANT!!!!!
+          - Si es vol connectar una pantalla externa per qualsevol error, s'ha de treure l'arxiu creat a /etc/X11/xorg.conf.d/{nom de l'arxiu} i reiniciar
     
